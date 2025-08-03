@@ -2,7 +2,7 @@
 
 ## 🧭 Overview  
 **Traveo** is an AI-powered chatbot agent designed to help users plan trips smartly and efficiently.  
-It offers personalized destination suggestions, itinerary planning, transport and accommodation tips, and real-time travel guidance—all for free—deployable on IBM Cloud Lite using watsonx.ai Prompt Lab and IBM Granite foundation models.
+It offers personalized destination suggestions, itinerary planning, transport and accommodation tips, and real-time travel guidance—all for free—deployable on IBM Cloud Lite using watsonx.ai Prompt Lab and IBM Llama foundation models.
 
 ---
 
