@@ -24,12 +24,6 @@ You can interact with Traveo via:
 
 ---
 
-### 🌐 Web Chat Preview (if deployed)  
-1. Open the provided web chat or embed-page link in your browser.  
-2. Start a conversation: Ask about destinations, budgets, travel tips, or packing suggestions.
-
----
-
 ## 💡 Example Prompts  
 1.“Do you have a preferred destination in mind?”
 
